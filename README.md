@@ -13,8 +13,8 @@
 - 2020 ~ NOW : 인하대학교 소프트웨어융합공학과
 - 2013 ~ 2015 : 한국디지털미디어고등학교 웹 프로그래밍과
 
-### Product
-- (알약)[https://www.alyac.com]
-- (알약M)[https://www.estsecurity.com/public/product/alyacm]
-- (Threat Inside)[https://www.estsecurity.com/enterprise/product/threatinside]
-- (알약 EDR)[https://www.estsecurity.com/enterprise/product/alyac-edr]
+### 📦 Product
+- [알약](https://www.alyac.com)
+- [알약M](https://www.estsecurity.com/public/product/alyacm)
+- [Threat Inside](https://www.estsecurity.com/enterprise/product/threatinside)
+- [알약 EDR](https://www.estsecurity.com/enterprise/product/alyac-edr)

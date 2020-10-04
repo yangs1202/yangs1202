@@ -1,5 +1,3 @@
-# hey.yangs
-
 ### 👦 About Me
 - 서비스개발과 출시. 프로덕트 운영을 하는 그 순간을 즐기는 편 입니다.
 - 자동화 된 프로세스로 업무를 효율적으로 관리하고, 더 나은 서비스를 위해 생산적인 리소스 사용을 선호합니다.
@@ -9,8 +7,14 @@
 - 내가 만든 모든 서비스는 '내 자식' 같은 애착을 가지고 있습니다.
 
 ### 👨‍💻 Career
-- 2015.09.01 ~ Now : 이스트시큐리티 알약그린팀 선임
+- 2015.09.01 ~ Now : 이스트시큐리티 알약그린팀 선임 (알약M 리드 서버 개발자)
 
 ### 🏫 Education
 - 2020 ~ NOW : 인하대학교 소프트웨어융합공학과
 - 2013 ~ 2015 : 한국디지털미디어고등학교 웹 프로그래밍과
+
+### Product
+- (알약)[https://www.alyac.com]
+- (알약M)[https://www.estsecurity.com/public/product/alyacm]
+- (Threat Inside)[https://www.estsecurity.com/enterprise/product/threatinside]
+- (알약 EDR)[https://www.estsecurity.com/enterprise/product/alyac-edr]

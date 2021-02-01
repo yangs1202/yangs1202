@@ -18,3 +18,5 @@
 - [알약M](https://www.estsecurity.com/public/product/alyacm)
 - [Threat Inside](https://www.estsecurity.com/enterprise/product/threatinside)
 - [알약 EDR](https://www.estsecurity.com/enterprise/product/alyac-edr)
+- [카카오T](https://www.kakaomobility.com/contents/10) 
+- [카카오내비](https://www.kakaomobility.com/contents/12)
